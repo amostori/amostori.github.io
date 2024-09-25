@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "427aadbb6fc2150bdbf5089d769f6256",
-"version.json": "854d6f1d406e9e2e2f653a345f15766f",
+const RESOURCES = {"flutter_bootstrap.js": "0a1368224de3d2c653f8d6df0a63b41e",
+"version.json": "7723405c3595e581d7f13b4a58f43af7",
 "index.html": "155f2dd08c9149324830ccc6b19a2115",
 "/": "155f2dd08c9149324830ccc6b19a2115",
-"main.dart.js": "07de9377815dd1d3716dead72b1c3c89",
+"main.dart.js": "2e18df8c335dd294881bf71fe3b06402",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "favicon.png": "acd7d423a0c271f655532f589a2a3754",
 "icons/Icon-192.png": "a024020d1e0b327c004031aab31cf858",
@@ -93,7 +93,7 @@ const RESOURCES = {"flutter_bootstrap.js": "427aadbb6fc2150bdbf5089d769f6256",
 "assets/assets/images/kid.png": "393de8cc1274565b54cc49be0fc9806c",
 "assets/assets/images/app-icon-foreground.png": "2514e870006289a61b00569d3f423a3d",
 "assets/assets/splash.png": "b1ff35439a14978eec316d183a070b07",
-"assets/assets/translations/pl.json": "d67b7a8160932a493489c5ff610595e1",
+"assets/assets/translations/pl.json": "41f809f8443332fdd628805ef7387d6a",
 "assets/assets/translations/en.json": "d67b7a8160932a493489c5ff610595e1",
 "canvaskit/skwasm.js": "694fda5704053957c2594de355805228",
 "canvaskit/skwasm.js.symbols": "262f4827a1317abb59d71d6c587a93e2",
