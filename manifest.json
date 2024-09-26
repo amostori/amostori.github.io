@@ -1,6 +1,6 @@
 {
-    "name": "leki_dzieci",
-    "short_name": "leki_dzieci",
+    "name": "leki_stare",
+    "short_name": "leki_stare",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
