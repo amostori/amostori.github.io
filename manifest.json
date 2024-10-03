@@ -1,6 +1,6 @@
 {
-    "name": "leki_stare",
-    "short_name": "leki_stare",
+    "name": "money",
+    "short_name": "money",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
